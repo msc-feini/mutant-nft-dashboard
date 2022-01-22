@@ -1,4 +1,4 @@
-![](https://github.com/invisiblefeini/bingbongdashboard/blob/main/images/bannersm.jpg)
+![](https://github.com/msc-feini/mutant-nft-dashboard/blob/main/images/banner.png)
 
 # Mutant Shiba Club NFT Dashboard
 Build a dashboard to track twitter follower and opensea floor prices of your favorite nft projects
