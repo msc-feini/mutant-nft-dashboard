@@ -24,8 +24,7 @@ Launch Grafana and import the dashboard i prepared for you grafana\Grafana_NFTDa
 
 You should be ready to go now!
 
-PS: Watch out for cucumbers.
+We see you °_°
 
 Discord: feini#2769
-
 
